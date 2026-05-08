@@ -94,13 +94,13 @@ job-market-analyzer/
 
 \### 🏙️ Top Hiring Cities
 
-!\[Top Hiring Cities](images/Top\_Hiring\_Cities.png)
+!\[Top Hiring Cities](Images/Top\_Hiring\_Cities.png)
 
 
 
 \### 🛠️ Most In-Demand Skills
 
-!\[Most Demanded Skills](images/Most\_Demanded\_Skills.png)
+!\[Most Demanded Skills](Images/Most\_Demanded\_Skills.png)
 
 
 
